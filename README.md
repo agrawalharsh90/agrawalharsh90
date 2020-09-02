@@ -21,6 +21,11 @@
 [twitter]: https://twitter.com/agrawalharsh90
 
 <br />
+  
+### Github Stats & Most Used Languages
+<img align="left" alt="Harsh Github Stats" src="https://github-readme-stats.vercel.app/api?username=agrawalharsh90&show_icons=true&hide_border=true&theme=radical" />
+<img align="left" alt="Harsh Github Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agrawalharsh90" />
+
 
 <!--
 **agrawalharsh90/agrawalharsh90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
