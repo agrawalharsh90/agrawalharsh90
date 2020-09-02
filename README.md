@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+
+🔭 I’m currently working on ...
+<img src="https://cdn.iconscout.com/icon/free/png-256/flutter-2038877-1720090.png
+
+📫 How to reach me:
+:phone: +918057055484
+:email: agrawalharsh90@gmail.com
+
 <!--
 **agrawalharsh90/agrawalharsh90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
