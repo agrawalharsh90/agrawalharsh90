@@ -23,7 +23,7 @@
 <br />
   
 ### Github Stats & Most Used Languages
-<img align="left" alt="Harsh Github Stats" src="https://github-readme-stats.vercel.app/api?username=agrawalharsh90&show_icons=true&hide_border=true&theme=radical" />
+<img align="left" alt="Harsh Github Stats" src="https://github-readme-stats.vercel.app/api?username=agrawalharsh90&show_icons=true&hide_border=true&theme=radical&private=true/" />
 <img align="left" alt="Harsh Github Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agrawalharsh90" />
 
 
