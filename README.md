@@ -1,7 +1,7 @@
 ### Hi there, I'm Harsh Agrawal- agrawalharsh90 👋
 
 
-## I'm a Student, Learner, Programmer, and Software Developer!
+## I'm a Student, Learner and Software Developer!
 
 - 🔭 I’m currently working on a Flutter and React!
 - 🌱 I’m currently learning everything 🤣
