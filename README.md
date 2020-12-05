@@ -1,5 +1,6 @@
 ### Hi there, I'm Harsh Agrawal- agrawalharsh90 👋 :
-[![agrawalharsh90](https://i.imgur.com/NfiliHY.gif)][agrawalharsh90]
+
+[<img alt="agrawalharsh90" width="25%" src="https://i.imgur.com/NfiliHY.gif" />][agrawalharsh90]
 
 
 [agrawalharsh90]: http://agrawalharsh90.com/
@@ -29,19 +30,3 @@
 ### Github Stats & Most Used Languages
 <img align="left" alt="Harsh Github Stats" src="https://github-readme-stats.vercel.app/api?username=agrawalharsh90&show_icons=true&hide_border=true&theme=radical&private=true&count_private=true/" />
 <img align="left" alt="Harsh Github Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agrawalharsh90&layout=compact" />
-
-
-<!--
-**agrawalharsh90/agrawalharsh90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
