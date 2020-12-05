@@ -1,4 +1,8 @@
-### Hi there, I'm Harsh Agrawal- agrawalharsh90 👋
+### Hi there, I'm Harsh Agrawal- agrawalharsh90 👋 :
+[![agrawalharsh90](https://i.imgur.com/NfiliHY.gif)][agrawalharsh90]
+
+
+[agrawalharsh90]: http://agrawalharsh90.com/
 
 
 ## I'm a Student, Learner and Software Developer!
