@@ -15,11 +15,13 @@
 
 ### Connect with me:
 
+[<img align="left" alt="agrawalharsh90 | website" width="30px" src="https://i.imgur.com/oSRh6zH.png" />][website]
 [<img align="left" alt="agrawalharsh90 | github" width="30px" src="https://img.icons8.com/fluent/2x/github.png" />][github]
 [<img align="left" alt="agrawalharsh90 | Twitter" width="30px" src="https://img.icons8.com/fluent/2x/twitter.png" />][twitter]
 [<img align="left" alt="agrawalharsh90 | LinkedIn" width="30px" src="https://img.icons8.com/fluent/2x/linkedin.png" />][linkedin]
 [<img align="left" alt="agrawalharsh90 | Instagram" width="30px" src="https://img.icons8.com/fluent/2x/instagram-new.png" />][instagram]
 
+[website]: http://agrawalharsh90.com/
 [github]: https://github.com/agrawalharsh90/
 [linkedin]: https://www.linkedin.com/in/agrawalharsh90/
 [instagram]: https://www.instagram.com/agrawalharsh90/
