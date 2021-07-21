@@ -25,7 +25,9 @@
 - 💬 Ask me about anything, I am happy to help
 - 👯 I’m looking to collaborate with other Open Source Developers
 - 🥅 2021 Goals: Contribute to Open Source projects
-- 📝 [Resume](https://drive.google.com/file/d/1i2MIoGg1wYEeorkE4SIf1D8ZpfLAnY9b/view?usp=sharing)
+- 📝 [Resume][resume]
+
+[resume]: https://drive.google.com/file/d/1i2MIoGg1wYEeorkE4SIf1D8ZpfLAnY9b/view?usp=sharing
 
 **Languages and Tools:**
 
