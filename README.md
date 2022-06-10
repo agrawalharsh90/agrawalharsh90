@@ -1,4 +1,4 @@
-### Hi there, I'm Harsh Agrawal- agrawalharsh90 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi there, I'm Harsh Agrawal- agrawalharsh90 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px">
 
 [<img align="left" alt="agrawalharsh90 | website" width="30px" src="https://i.imgur.com/oSRh6zH.png" />][website]
 [<img align="left" alt="agrawalharsh90 | github" width="30px" src="https://img.icons8.com/fluent/2x/github.png" />][github]
